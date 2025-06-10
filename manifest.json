@@ -1,11 +1,15 @@
 {
-  "name": "MAIO App",
-  "short_name": "AIO",
-  "theme_color": "#FF6600",
-  "background_color": "#212C3B",
-  "display": "minimal-ui",
-  "Scope": "https://paotechnologiespr.tadabase.io/maio-app",
-  "start_url": "https://paotechnologiespr.tadabase.io/maio-app/login",
+    "name": "MAIO",
+    "short_name": "AIO App",
+    "description": "",
+    "start_url": "https://paotechnologiespr.tadabase.io/maio-app/login",
+    "display": "minimal-ui",
+    "orientation": "any",
+    "background_color": "#ebf8f9",
+    "theme_color": "#0b9fa6",
+    "scope": "https://paotechnologiespr.tadabase.io/maio-app/login",
+    "lang": "en-US",
+    "prefer_related_applications": false,
   "icons": [
     {
       "src": "https://8232-application-data-2273.s3.amazonaws.com/AXQvvn58QL/1749521001-Marina-logo-solo72.png",
@@ -46,7 +50,7 @@
       "src": "https://8232-application-data-2273.s3.amazonaws.com/AXQvvn58QL/1749520863-Marina-logo-solo512.png",
       "sizes": "512x512",
       "type": "image/png"
-    }
+    },
      "screenshots": [
     {
      "src": "source/image1.png",
