@@ -1,23 +1,9 @@
 {
-"shortcuts": [
-  {
-    "name": "Marina AIO App",
-    "short_name": "MAIO",
-    "description": "Join a live session",
-    "url": "https://paotechnologiespr.tadabase.io/maio-app/login",
-    "icons": [
-      {
-      "src": "https://8232-application-data-2273.s3.amazonaws.com/AXQvvn58QL/1749520914-Marina-logo-solo192.png",
-        "sizes": "192x192"
-      }
-    ]
-  }
-], 
     "name": "MAIO",
     "short_name": "AIO App",
     "description": "",
     "start_url": "https://paotechnologiespr.tadabase.io/maio-app/",
-    "display": "standalone",
+    "display": "fullscreen",
     "orientation": "any",
     "background_color": "#ebf8f9",
     "theme_color": "#0b9fa6",
