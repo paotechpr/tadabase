@@ -54,8 +54,8 @@
   ],
      "screenshots": [
     {
-     "src": "source/image1.png",
-      "sizes": "320x600",
+     "src": "https://8232-application-data-2273.s3.amazonaws.com/AXQvvn58QL/1749525697-mobile.png",
+      "sizes": "500x1000",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Wonder Widgets"
