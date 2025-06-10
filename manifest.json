@@ -22,7 +22,7 @@
     "orientation": "any",
     "background_color": "#ebf8f9",
     "theme_color": "#0b9fa6",
-    "scope": "/",
+    "scope": "https://paotechnologiespr.tadabase.io/",
     "lang": "en-US",
     "prefer_related_applications": false,
   "icons": [
