@@ -7,7 +7,7 @@
     "orientation": "any",
     "background_color": "#ebf8f9",
     "theme_color": "#0b9fa6",
-    "scope": "https://paotechnologiespr.tadabase.io/maio-app/login",
+    "scope": "https://paotechnologiespr.tadabase.io/maio-app",
     "lang": "en-US",
     "prefer_related_applications": false,
   "icons": [
