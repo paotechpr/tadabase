@@ -50,7 +50,8 @@
       "src": "https://8232-application-data-2273.s3.amazonaws.com/AXQvvn58QL/1749520863-Marina-logo-solo512.png",
       "sizes": "512x512",
       "type": "image/png"
-    },
+    }
+  ]
      "screenshots": [
     {
      "src": "source/image1.png",
@@ -60,5 +61,4 @@
       "label": "Wonder Widgets"
     }
 ]
-  ]
 }
