@@ -3,7 +3,7 @@
     "short_name": "AIO App",
     "description": "",
     "start_url": "https://paotechnologiespr.tadabase.io/maio-app/login",
-    "display": "minimal-ui",
+    "display": "standalone",
     "orientation": "any",
     "background_color": "#ebf8f9",
     "theme_color": "#0b9fa6",
