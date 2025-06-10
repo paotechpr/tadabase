@@ -47,5 +47,14 @@
       "sizes": "512x512",
       "type": "image/png"
     }
+     "screenshots": [
+    {
+     "src": "source/image1.png",
+      "sizes": "320x600",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Wonder Widgets"
+    }
+]
   ]
 }
