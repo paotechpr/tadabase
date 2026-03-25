@@ -2,60 +2,60 @@
     "name": "OmniXware",
     "short_name": "OX Docks",
     "description": "",
-    "start_url": "https://paotechnologiespr.tadabase.io/ox-docks/mobile-login",
+    "start_url": "https://paotechnologiespr.tadabase.io/ox-docks/company-staff-page",
     "display": "standalone",
     "orientation": "any",
     "background_color": "#131314",
     "theme_color": "#131314",
-    "scope": "/",
+    "scope": "https://paotechnologiespr.tadabase.io/ox-docks/",
     "lang": "en-US",
     "prefer_related_applications": false,
   "icons": [
     {
       "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404658-OXDocks-72.png",
-      "sizes": "72x72",
+      "sizes": "72x60",
       "type": "image/png"
     },
     {
       "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404658-OXDocks-96.png",
-      "sizes": "96x96",
+      "sizes": "96x80",
       "type": "image/png"
     },
     {
       "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404658-OXDocks-128.png",
-      "sizes": "128x128",
+      "sizes": "128x107",
       "type": "image/png"
     },
     {
       "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404658-OXDocks-144.png",
-      "sizes": "144x144",
+      "sizes": "144x120",
       "type": "image/png"
     },
     {
       "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404658-OXDocks-152.png",
-      "sizes": "152x152",
+      "sizes": "152x127",
       "type": "image/png"
     },
     {
       "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404658-OXDocks-192.png",
-      "sizes": "192x192",
+      "sizes": "192x160",
       "type": "image/png"
     },
     {
       "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404658-OXDocks-384.png",
-      "sizes": "384x384",
+      "sizes": "384x321",
       "type": "image/png"
     },
     {
       "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404658-OXDocks-512.png",
-      "sizes": "512x512",
+      "sizes": "512x428",
       "type": "image/png"
     }
   ],
      "screenshots": [
     {
      "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1773623384-OXDocks.png",
-      "sizes": "500x1000",
+      "sizes": "588x491",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Wonder Widgets"
