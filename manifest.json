@@ -1,8 +1,8 @@
 {
-    "name": "MAIO",
-    "short_name": "AIO App",
+    "name": "OX Docks",
+    "short_name": "OX Docks",
     "description": "",
-    "start_url": "https://paotechnologiespr.tadabase.io/maio-app2/",
+    "start_url": "https://paotechnologiespr.tadabase.io/ox-docks/mobile-login",
     "display": "fullscreen",
     "orientation": "any",
     "background_color": "#131314",
@@ -12,49 +12,49 @@
     "prefer_related_applications": false,
   "icons": [
     {
-      "src": "https://8232-application-data-2273.s3.amazonaws.com/AXQvvn58QL/1749521001-Marina-logo-solo72.png",
+      "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404658-OXDocks-72.png",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "https://8232-application-data-2273.s3.amazonaws.com/AXQvvn58QL/1749520987-Marina-logo-solo96.png",
+      "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404658-OXDocks-96.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "https://8232-application-data-2273.s3.amazonaws.com/AXQvvn58QL/1749520976-Marina-logo-solo128.png",
+      "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404658-OXDocks-128.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "https://8232-application-data-2273.s3.amazonaws.com/AXQvvn58QL/1749520967-Marina-logo-solo144.png",
+      "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404658-OXDocks-144.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "https://8232-application-data-2273.s3.amazonaws.com/AXQvvn58QL/1749520937-Marina-logo-solo.png",
+      "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404658-OXDocks-152.png",
       "sizes": "152x152",
       "type": "image/png"
     },
     {
-      "src": "https://8232-application-data-2273.s3.amazonaws.com/AXQvvn58QL/1749520914-Marina-logo-solo192.png",
+      "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404658-OXDocks-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://8232-application-data-2273.s3.amazonaws.com/AXQvvn58QL/1749520879-Marina-logo-solo384.png",
+      "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404658-OXDocks-384.png",
       "sizes": "384x384",
       "type": "image/png"
     },
     {
-      "src": "https://8232-application-data-2273.s3.amazonaws.com/AXQvvn58QL/1749520863-Marina-logo-solo512.png",
+      "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404658-OXDocks-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
   ],
      "screenshots": [
     {
-     "src": "https://8232-application-data-2273.s3.amazonaws.com/AXQvvn58QL/1749525697-mobile.png",
+     "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1773623384-OXDocks.png",
       "sizes": "500x1000",
       "type": "image/png",
       "form_factor": "narrow",
