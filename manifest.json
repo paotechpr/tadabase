@@ -4,7 +4,7 @@
     "description": "",
     "id": "/ox-docks/mobile-login",
     "start_url": "https://paotechnologiespr.tadabase.io/ox-docks/mobile-login",
-    "display": "standalone",
+    "display": "fullscreen",
     "orientation": "any",
     "background_color": "#131314",
     "theme_color": "#131314",
