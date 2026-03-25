@@ -2,6 +2,7 @@
     "name": "OmniXware",
     "short_name": "OX Docks",
     "description": "",
+    "id": "/ox-docks/company-staff-page",
     "start_url": "https://paotechnologiespr.tadabase.io/ox-docks/company-staff-page",
     "display": "standalone",
     "orientation": "any",
@@ -13,42 +14,42 @@
   "icons": [
     {
       "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404658-OXDocks-72.png",
-      "sizes": "72x60",
+      "sizes": "72x72",
       "type": "image/png"
     },
     {
       "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404677-OXDocks-96.png",
-      "sizes": "96x80",
+      "sizes": "96x96",
       "type": "image/png"
     },
     {
       "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404692-OXDocks-128.png",
-      "sizes": "128x107",
+      "sizes": "128x128",
       "type": "image/png"
     },
     {
       "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404705-OXDocks-144.png",
-      "sizes": "144x120",
+      "sizes": "144x144",
       "type": "image/png"
     },
     {
       "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404728-OXDocks-152.png",
-      "sizes": "152x127",
+      "sizes": "152x152",
       "type": "image/png"
     },
     {
       "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404744-OXDocks-192.png",
-      "sizes": "192x160",
+      "sizes": "192x192",
       "type": "image/png"
     },
     {
       "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404768-OXDocks-384.png",
-      "sizes": "384x321",
+      "sizes": "384x384",
       "type": "image/png"
     },
     {
       "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404788-OXDocks-512.png",
-      "sizes": "512x428",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ],
