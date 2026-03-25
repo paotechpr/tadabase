@@ -3,11 +3,11 @@
     "short_name": "OX Docks",
     "description": "",
     "start_url": "https://paotechnologiespr.tadabase.io/ox-docks/mobile-login",
-    "display": "fullscreen",
+    "display": "standalone",
     "orientation": "any",
     "background_color": "#131314",
     "theme_color": "#131314",
-    "scope": "https://paotechnologiespr.tadabase.io/",
+    "scope": "/",
     "lang": "en-US",
     "prefer_related_applications": false,
   "icons": [
