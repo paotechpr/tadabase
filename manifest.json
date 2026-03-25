@@ -64,7 +64,7 @@
 ],
   "protocol_handlers": [
     {
-      "protocol": "log+user",
+      "protocol": "web+user",
       "url": "https://paotechnologiespr.tadabase.io/ox-docks/mobile-login"
     }
   ]
