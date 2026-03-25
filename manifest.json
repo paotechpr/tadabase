@@ -61,11 +61,5 @@
       "form_factor": "narrow",
       "label": "Wonder Widgets"
     }
-],
-  "protocol_handlers": [
-    {
-      "protocol": "web+user",
-      "url": "https://paotechnologiespr.tadabase.io/ox-docks/mobile-login"
-    }
   ]
 }
