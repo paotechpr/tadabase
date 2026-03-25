@@ -13,37 +13,37 @@
     "prefer_related_applications": false,
   "icons": [
     {
-      "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404658-OXDocks-72.png",
+      "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774410897-OXDocks-72.png",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404677-OXDocks-96.png",
+      "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774410914-OXDocks-96.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404692-OXDocks-128.png",
+      "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774410924-OXDocks-128.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404705-OXDocks-144.png",
+      "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774410935-OXDocks-144.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404728-OXDocks-152.png",
+      "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774410968-OXDocks-152.png",
       "sizes": "152x152",
       "type": "image/png"
     },
     {
-      "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404744-OXDocks-192.png",
+      "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774410986-OXDocks-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774404768-OXDocks-384.png",
+      "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774410997-OXDocks-384.png",
       "sizes": "384x384",
       "type": "image/png"
     },
@@ -55,7 +55,7 @@
   ],
      "screenshots": [
     {
-     "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1773623384-OXDocks.png",
+     "src": "https://8232-application-data-2273.s3.amazonaws.com/awrRRq1Or5/1774411006-OXDocks-512.png",
       "sizes": "588x491",
       "type": "image/png",
       "form_factor": "narrow",
