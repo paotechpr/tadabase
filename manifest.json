@@ -8,7 +8,7 @@
     "orientation": "any",
     "background_color": "#131314",
     "theme_color": "#131314",
-    "scope": "/ox-docks/mobile-login/",
+    "scope": "/ox-docks/",
     "lang": "en-US",
     "prefer_related_applications": false,
   "icons": [
