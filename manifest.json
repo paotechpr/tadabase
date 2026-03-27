@@ -4,7 +4,7 @@
     "description": "",
     "id": "/ox-docks/company-staff-page",
     "start_url": "https://paotechnologiespr.tadabase.io/ox-docks/company-staff-page",
-    "display": "fullscreen",
+    "display": "standalone",
     "orientation": "any",
     "background_color": "#131314",
     "theme_color": "#131314",
